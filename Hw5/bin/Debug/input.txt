@@ -1,0 +1,1 @@
+"Eren Bektas",1,2,3,4,5,6,7,8,9,10;"Burak Kolukisa",0,0,2,5,8,1;"Walter White Longname",4,5,6;"Skyler White",7,8,9;"Jesse Pinkman",10,11,12;"",12,12,3;"Hank Schrader",13,14,15;"Marie Schrader",16,17,18;"Walter White Jr.",19,20,21;"Saul Goodman",22,23,24;"Steven Gomez",25,26,27;"Mike Ehrmantraut",28,29,30

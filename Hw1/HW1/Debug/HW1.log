@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\yandexdisk\academic\cs 360 - gui\assignments\hw1\hw1\source.cpp(104): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+  HW1.vcxproj -> D:\YandexDisk\Academic\CS 360 - GUI\Assignments\Hw1\Debug\HW1.exe
+  HW1.vcxproj -> D:\YandexDisk\Academic\CS 360 - GUI\Assignments\Hw1\Debug\HW1.pdb (Partial PDB)

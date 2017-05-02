@@ -1,0 +1,11 @@
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\obj\Debug\hw5.vbprojResolveAssemblyReference.cache
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\obj\Debug\hw5.vbproj.GenerateResource.Cache
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\TQ\Dropbox\Academic\CS 360 - GUI\Assignments\Hw5 - Copy\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

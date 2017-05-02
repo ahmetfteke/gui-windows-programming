@@ -1,0 +1,5 @@
+﻿  Win32Draw.cpp
+d:\yandexdisk\academic\cs 360 - gui\assignments\hw2\win32draw\win32draw\win32draw.cpp(142): warning C4101: 'y': unreferenced local variable
+d:\yandexdisk\academic\cs 360 - gui\assignments\hw2\win32draw\win32draw\win32draw.cpp(142): warning C4101: 'x': unreferenced local variable
+  Win32Draw.vcxproj -> D:\YandexDisk\Academic\CS 360 - GUI\Assignments\Hw2\Win32Draw\Debug\Win32Draw.exe
+  Win32Draw.vcxproj -> D:\YandexDisk\Academic\CS 360 - GUI\Assignments\Hw2\Win32Draw\Debug\Win32Draw.pdb (Full PDB)
